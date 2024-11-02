@@ -31,7 +31,9 @@ pip install -r requirements.txt
 
 # git hub 
 git add .
+
 git commit -m "commit"
+
 git push origin main
 
 
