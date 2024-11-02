@@ -10,3 +10,14 @@ conda activate red-wine
 
 pip install -r requirements.txt
 
+
+# git hub 
+git add .
+git commit -m "commit"
+git push origin main
+
+# clone repository 
+
+https://github.com/siddhanath-tiwari/red-wine-prediction
+
+
