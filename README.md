@@ -16,13 +16,6 @@ conda activate red-wine
 pip install -r requirements.txt
 
 
-# git hub 
-git add .
-git commit -m "commit"
-git push origin main
-
-
-
 ## Workflows
 
 1. Update config.yaml
@@ -34,6 +27,16 @@ git push origin main
 7. Update the pipeline 
 8. Update the main.py
 9. Update the app.py
+
+
+# git hub 
+git add .
+git commit -m "commit"
+git push origin main
+
+
+
+
 
 
 
